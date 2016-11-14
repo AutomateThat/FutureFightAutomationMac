@@ -2,6 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/Users/kevinmach/Documents/Sikuli Script/sikulixapi.jar"/>
+	<classpathentry kind="lib" path="F:/Users/Kevin Mach/Documents/Sikuli Script/Sikuli Script Java Build/sikulixapi.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

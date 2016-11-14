@@ -26,7 +26,7 @@ public class Main {
 		Pattern stage_4 = new Pattern("src/img/stage_4.png"); 
 		
 		//Run Timeline script 
-		timeline.runTimeline();
+		//timeline.runTimeline();
 		
 		
 		//Start Mission Routine 
